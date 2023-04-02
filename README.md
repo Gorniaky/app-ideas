@@ -4,6 +4,6 @@
 
 ### Tier-1: Beginner Projects
 
-| Name                                                                              | Short Description                                          | Tier       |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
-| [Calculator](../../tree/1-Calculator)                             | Calculator                                                 | 1-Beginner |
+| Name                                  | Short Description | Tier       |
+| ------------------------------------- | ----------------- | ---------- |
+| [Calculator](../../tree/1-Calculator) | Calculator        | 1-Beginner |
